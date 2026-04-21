@@ -37,7 +37,7 @@ This project aims to identify such dependencies and highlight potential concentr
 
 ## Dashboard Preview
 
-
+![Dashboard](dashboard.png)
 
 ---
 
